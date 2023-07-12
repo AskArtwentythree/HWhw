@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "node",
+      "declarationDir": "types",
+      "allowSyntheticDefaultImports": true
+    },
+    "include": ["src/**/*.ts"]
+  }
+  
